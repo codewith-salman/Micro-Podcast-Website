@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-<img src="Micro%20Podcast%20Website/assets/images/logo.png" alt="Micro Podcast Logo" width="100%"/>
+<img src="Micro%20Podcast%20Website/assets/images/logo.svg" alt="Micro Podcast Logo" width="100%"/>
 
 ## 🎧 Micro – Podcast Website
 A modern, responsive, and creative **Podcast Website UI** built using **HTML, CSS, and JavaScript**.  
