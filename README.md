@@ -57,7 +57,6 @@ built using **HTML and CSS**.
 The layout focuses on:
 
 - Modern and creative podcast-focused visual design
-- Clear presentation of podcast content
 - Media-centric imagery and visual hierarchy
 - Responsive layouts for desktop and mobile devices
 - Clean typography and balanced spacing
