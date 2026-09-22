@@ -82,7 +82,6 @@ Ideal for:
 - Media-centric visual presentation
 - Mobile-friendly responsive structure
 - Clean typography and visual hierarchy
-- Smooth hover and transition effects
 - Lightweight and easy to customize
 
 ---
